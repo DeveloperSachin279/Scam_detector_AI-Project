@@ -1,0 +1,7 @@
+{
+  "name": "ScamGuard AI - Internship & Job Offer Analyst",
+  "description": "A high-precision AI tool for detecting fake job and internship offers using the Gemini 3 Pro model with Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
